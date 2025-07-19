@@ -1,6 +1,6 @@
 # Healthcare Appointment Scheduling System (HASS)
 
-This repository contains the design and development of a **Healthcare Appointment Scheduling System (HASS)**, developed as an individual academic project for the module *CMP7245 - Database Design & Development* at the Faculty of Computing, Engineering and Built Environment.
+This repository contains the design and development of a **Healthcare Appointment Scheduling System (HASS)**
 
 ## 📌 Project Overview
 
