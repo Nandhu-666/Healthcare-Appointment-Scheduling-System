@@ -22,6 +22,11 @@ The HASS project is a comprehensive database system that facilitates appointment
 - **Design Tools:** MySQL Workbench (Design Tab)
 - **Query Language:** SQL
 
+## 🔐 Demo Login
+
+**Admin:** root
+**No Password**
+
 ## 🔐 Security Features
 
 - Role-based access (Doctor, Staff, Admin)
